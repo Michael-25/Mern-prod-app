@@ -1,5 +1,3 @@
-import { Navigate } from "react-router-dom";
-import * as React from "react";
 var express = require("express");
 var app = express();
 const bcrypt = require('bcrypt');
