@@ -10,3 +10,5 @@ Backend:
 
 Frontend:
 6)in new terminal type cd frontend , do npm install and npm start
+
+*delete package-lock.json and run npm install if any module not found error occurs
